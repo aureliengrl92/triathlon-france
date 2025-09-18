@@ -1,0 +1,221 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3522,48.8566 ]
+    },
+    "properties": {
+    "id":"2025-TRI-PARIS-M",
+    "name":"Triathlon de Paris",
+    "region":"Île-de-France",
+    "city":"Paris",
+    "format":"M",
+    "start_date":"2025-06-29",
+    "profile":"flat",
+    "url":"https://exemple.org/paris",
+    "registration_url":"https://exemple.org/paris/inscriptions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.38,43.3 ]
+    },
+    "properties": {
+    "id":"2025-TRI-MARSEILLE-S",
+    "name":"Triathlon de Marseille",
+    "region":"Provence-Alpes-Côte d'Azur",
+    "city":"Marseille",
+    "format":"S",
+    "start_date":"2025-06-08",
+    "profile":"flat",
+    "url":"https://exemple.org/marseille",
+    "registration_url":"https://exemple.org/marseille/inscription"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.553,47.217 ]
+    },
+    "properties": {
+    "id":"2025-TRI-NANTES-M",
+    "name":"Triathlon de Nantes",
+    "region":"Pays de la Loire",
+    "city":"Nantes",
+    "format":"M",
+    "start_date":"2025-09-14",
+    "profile":"rolling",
+    "url":"https://exemple.org/nantes",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.4833,48.3833 ]
+    },
+    "properties": {
+    "id":"2025-TRI-BREST-S",
+    "name":"Triathlon de Brest",
+    "region":"Bretagne",
+    "city":"Brest",
+    "format":"S",
+    "start_date":"2025-05-18",
+    "profile":"rolling",
+    "url":"https://exemple.org/brest",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7486,48.5839 ]
+    },
+    "properties": {
+    "id":"2025-TRI-STRASBOURG-XS",
+    "name":"Triathlon de Strasbourg",
+    "region":"Grand Est",
+    "city":"Strasbourg",
+    "format":"XS",
+    "start_date":"2025-04-13",
+    "profile":"flat",
+    "url":"https://exemple.org/strasbourg",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0586,50.6292 ]
+    },
+    "properties": {
+    "id":"2025-TRI-LILLE-L",
+    "name":"Triathlon de Lille",
+    "region":"Hauts-de-France",
+    "city":"Lille",
+    "format":"L",
+    "start_date":"2025-07-06",
+    "profile":"flat",
+    "url":"https://exemple.org/lille",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4442,43.6047 ]
+    },
+    "properties": {
+    "id":"2025-TRI-TOULOUSE-M",
+    "name":"Triathlon de Toulouse",
+    "region":"Occitanie",
+    "city":"Toulouse",
+    "format":"M",
+    "start_date":"2025-10-05",
+    "profile":"rolling",
+    "url":"https://exemple.org/toulouse",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3698,43.2965 ]
+    },
+    "properties": {
+    "id":"2025-TRI-CASSIS-XS",
+    "name":"Triathlon de Cassis",
+    "region":"Provence-Alpes-Côte d'Azur",
+    "city":"Cassis",
+    "format":"XS",
+    "start_date":"2025-03-23",
+    "profile":"mountain",
+    "url":"https://exemple.org/cassis",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.869,45.923 ]
+    },
+    "properties": {
+    "id":"2025-TRI-CHAMONIX-L",
+    "name":"Triathlon du Mont-Blanc",
+    "region":"Auvergne-Rhône-Alpes",
+    "city":"Chamonix",
+    "format":"L",
+    "start_date":"2025-07-20",
+    "profile":"mountain",
+    "url":"https://exemple.org/chamonix",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6778,48.1173 ]
+    },
+    "properties": {
+    "id":"2025-TRI-RENNES-S",
+    "name":"Triathlon de Rennes",
+    "region":"Bretagne",
+    "city":"Rennes",
+    "format":"S",
+    "start_date":"2025-06-15",
+    "profile":"flat",
+    "url":"https://exemple.org/rennes",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8357,45.764 ]
+    },
+    "properties": {
+    "id":"2025-TRI-LYON-M",
+    "name":"Triathlon de Lyon",
+    "region":"Auvergne-Rhône-Alpes",
+    "city":"Lyon",
+    "format":"M",
+    "start_date":"2025-09-07",
+    "profile":"rolling",
+    "url":"https://exemple.org/lyon",
+    "registration_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5792,44.8378 ]
+    },
+    "properties": {
+    "id":"2025-TRI-BORDEAUX-XL",
+    "name":"Triathlon de Bordeaux XL",
+    "region":"Nouvelle-Aquitaine",
+    "city":"Bordeaux",
+    "format":"XL",
+    "start_date":"2025-08-31",
+    "profile":"flat",
+    "url":"https://exemple.org/bordeaux",
+    "registration_url":""
+    }
+  }
+]
+}
